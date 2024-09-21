@@ -11,10 +11,10 @@ Clone the repository:
 	cd numpy-matplotlib-intro
 
 Install dependencies:
-	2. pip install -r requirements.txt
+	2.  pip install -r requirements.txt
 
 Run Jupyter notebook:
-	3. jupyter notebook
+	3.  jupyter notebook
 
 # Requirements
 
