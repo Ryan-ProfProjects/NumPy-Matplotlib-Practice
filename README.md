@@ -5,16 +5,16 @@ Video #1: https://www.youtube.com/watch?v=_8uFeTYjIRU
 
 # Getting Started
 
-	1.	Clone the repository:
+Clone the repository:
 
- `git clone https://github.com/yourusername/numpy-matplotlib-intro.git
-cd numpy-matplotlib-intro`
+	1.  git clone https://github.com/yourusername/numpy-matplotlib-intro.git
+	cd numpy-matplotlib-intro
 
-	2.	Install dependencies:
- `pip install -r requirements.txt`
+Install dependencies:
+	2. pip install -r requirements.txt
 
-  3.	Run Jupyter notebook:
-`jupyter notebook`
+Run Jupyter notebook:
+	3. jupyter notebook
 
 # Requirements
 
