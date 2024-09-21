@@ -1,2 +1,32 @@
 # NumPy-Matplotlib-Practice
-This repository contains code and resources for the video tutorial “Introduction to NumPy and Matplotlib: Exploring Vectors, Matrices, and 3D Plotting”. In this tutorial, we delve into the basics of Python, NumPy, and Matplotlib to explore row and column vectors, matrices, some matrix multiplication, and 3D plotting with numpy linspaces.
+This repository contains code and resources for the video tutorials posted on YouTube about learning NumPy and Matplotlib from scratch. In these tutorials, we dive into the basics of Python, NumPy, and Matplotlib to explore row and column vectors, matrices, some matrix multiplication, and 3D plotting with numpy linspaces. This reposotory will be updated after more videos are made. Soon we will have the tools to create a nueral network ourselves using only NumPy and Matplotlib.
+
+Video #1: https://www.youtube.com/watch?v=_8uFeTYjIRU
+
+# Getting Started
+
+	1.	Clone the repository:
+
+ `git clone https://github.com/yourusername/numpy-matplotlib-intro.git
+cd numpy-matplotlib-intro`
+
+	2.	Install dependencies:
+ `pip install -r requirements.txt`
+
+  3.	Run Jupyter notebook:
+`jupyter notebook`
+
+# Requirements
+
+	•	Python 3.10+
+	•	NumPy
+	•	Matplotlib
+	•	Jupyter Notebook
+
+# Contributing
+
+Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
+
+# License
+
+This project is licensed under the MIT License.
